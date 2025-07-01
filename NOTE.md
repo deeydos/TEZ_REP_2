@@ -1,0 +1,1 @@
+You can easily know whether gitIgnore is working just on `git status ` command, if files expected to be ignored are listed then you got problem
