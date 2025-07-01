@@ -14,3 +14,6 @@ origin  https://github.com/burhankhaja/TezRep.git (push)
 - git remote add $IDENTIFIER $LINK_TO_REPO
 - then git push -u $IDENTIFIER main
 
+**IN case two remote origins cause errors due to direct commit changes in github on each of them, do this :**
+-  git pull --no-rebase $IDENTIFIER_ORIGIN main
+-  otherwise you cant push to the repo that had some changes past your local copy
