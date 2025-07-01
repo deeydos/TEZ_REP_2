@@ -21,3 +21,4 @@ origin  https://github.com/burhankhaja/TezRep.git (push)
 
 
 **if everything is fine you can use `git push` and get changes to both repos simulatneously**
+
