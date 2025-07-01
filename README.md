@@ -20,5 +20,5 @@ origin  https://github.com/burhankhaja/TezRep.git (push)
 
 
 
-**if everything is fine you can use `git push` and get changes to both repos simulatneously**
+**tried `git push` for simultaneous two repo pushing but failed to get change in both , don't know ?**
 
